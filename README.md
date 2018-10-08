@@ -1,1 +1,1 @@
-# 689-Project-on-Active-Learning
+# Analysis of Active Learning on Classification Models.
