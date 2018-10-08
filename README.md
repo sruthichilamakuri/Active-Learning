@@ -1,3 +1,3 @@
-# Analysis of Active Learning on Classification Models.
+# Women’s Health Risk Assessment Using Active Learning Techniques.
 
 There is an international challenge in Women’s health risk assessment, especially in women belonging to developing countries due to widespread unawareness. Some machine learning analysis has been carried out for predicting women’s health risk by collecting their social and health data. However challenges in health risk assessement are aggravated by insufficient data caused by elimination of sensitive information or mishandling of data. This calls for application of different forms of Active Learning on existing classification algorithms to help solve the problem of missing data while maintaining or improving prediction accuracy.
